@@ -1,3 +1,4 @@
+
 public class JavaTest0004 {
 
     public static void main(String[] args) {
